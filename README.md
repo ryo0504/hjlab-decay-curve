@@ -1,5 +1,7 @@
 # hjlab_decay_curve
 dockerで環境を構築し、Jupyter Labで使用することを想定しています。
+dockerのインストール
+https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
 ## ファイルの扱いと環境構築について
 dockerで環境を構築し、Jupyter Labで使用することを想定しています。
