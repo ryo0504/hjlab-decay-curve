@@ -1,6 +1,6 @@
 # hjlab_decay_curve
 dockerで環境を構築し、Jupyter Labで使用することを想定しています。
-以下の手順ではdocker run の際にホストのディレクトリをマウントするようにしてあります。
+ホストのディレクトリをマウントするようにしてあります。
 
 dockerのインストール: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
@@ -29,7 +29,4 @@ src/select_curves.ipynbの出力ファイルが保存されます。
 ### 環境構築の基本的な手順
 - git clone https://github.com/ryo0504/hjlab_decay_curve.git
 - cd env_build
-- docker build .
-- docker run -p <任意のport番号>:8888 -v <srcのディレクトリを指定>/:/work --name <任意のコンテナ名> <コンテナID>
-- (例)docker run -p 8888:8888 -v ~/Desktop/test_dir/src/:/work --name test_name 74f45e4b8084
-
+- docker-compose up
