@@ -2,10 +2,8 @@
 dockerで環境を構築し、Jupyter Labで使用することを想定しています。
 ホストのディレクトリをマウントするようにしてあります。
 
-- 動作例
-- ファイルの扱いと環境構築について
-
-dockerのインストール: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+- [動作例](https://github.com/ryo0504/hjlab-decay-curve#%E5%8B%95%E4%BD%9C%E4%BE%8B)
+- [ファイルの扱いと環境構築について](https://github.com/ryo0504/hjlab-decay-curve#%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E3%81%AE%E6%89%B1%E3%81%84%E3%81%A8%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6)
 
 ## 動作例
 ![sample](https://i.gyazo.com/6c18cf1b2e80c59ba69d24af58c0c890.gif)
