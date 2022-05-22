@@ -4,6 +4,9 @@ dockerで環境を構築し、Jupyter Labで使用することを想定してい
 
 dockerのインストール: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
+## 動作例
+![sample](https://i.gyazo.com/6c18cf1b2e80c59ba69d24af58c0c890.gif)
+
 ## ファイルの扱いと環境構築について
 
 ### env_build
@@ -31,5 +34,4 @@ src/select_curves.ipynbの出力ファイルが保存されます。
 - cd env_build
 - docker-compose up
 
-### 動作例
-![sample](https://i.gyazo.com/6c18cf1b2e80c59ba69d24af58c0c890.gif)
+
