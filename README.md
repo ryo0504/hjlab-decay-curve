@@ -30,3 +30,6 @@ src/select_curves.ipynbの出力ファイルが保存されます。
 - git clone https://github.com/ryo0504/hjlab_decay_curve.git
 - cd env_build
 - docker-compose up
+
+### 動作例
+![sample](https://i.gyazo.com/6c18cf1b2e80c59ba69d24af58c0c890.gif)
