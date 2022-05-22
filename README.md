@@ -1,6 +1,9 @@
-# hjlab_decay_curve
+# hjlab-decay-curve
 dockerで環境を構築し、Jupyter Labで使用することを想定しています。
 ホストのディレクトリをマウントするようにしてあります。
+
+- 動作例
+- ファイルの扱いと環境構築について
 
 dockerのインストール: https://hub.docker.com/editions/community/docker-ce-desktop-windows/
 
