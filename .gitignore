@@ -2,5 +2,6 @@
 src/.ipynb_checkpoints/
 *.csv
 test/
+data/
 memo.txt
 result/
