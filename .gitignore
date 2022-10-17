@@ -1,7 +1,6 @@
 .ipynb_checkpoints
 src/.ipynb_checkpoints/
 *.csv
-data/
 test/
 memo.txt
 result/
